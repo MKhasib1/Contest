@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hackathon</string>
+    <string name="leadership">Leadership</string>
+    <string name="water_tracking">Water Tracking</string>
+    <string name="top_leadership">Top Leadership</string>
+    <string name="drink_200ml">Drink 200ML</string>
 </resources>
