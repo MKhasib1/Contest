@@ -90,18 +90,18 @@
         android:background="@drawable/shape"
         android:text="Sign Up"
         android:textColor="@color/white" />
-<com.google.android.gms.common.SignInButton
 
-  android:id="@+id/signIN"
+    <com.google.android.gms.common.SignInButton
 
-    android:elevation="2dp"
-    android:layout_width="150dp"
-    android:layout_height="wrap_content"
-    android:layout_marginLeft="130dp"
-    android:layout_centerInParent="true"
+        android:id="@+id/signIN"
 
-  >
-</com.google.android.gms.common.SignInButton>
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="130dp"
+        android:elevation="2dp"
+
+        ></com.google.android.gms.common.SignInButton>
 
     <ProgressBar
         android:id="@+id/spinner"
