@@ -129,6 +129,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/timerTextView"
         android:layout_marginTop="@dimen/twenty_dp"
         android:layout_width="wrap_content"
         android:layout_gravity="center"
@@ -144,6 +145,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginEnd="40dp"
+        android:onClick="drink200MLButton"
         android:background="@drawable/angle"
         android:text="@string/drink_200ml"
         android:textAllCaps="false"

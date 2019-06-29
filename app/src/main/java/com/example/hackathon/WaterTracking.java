@@ -1,9 +1,9 @@
 package com.example.hackathon;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class WaterTracking extends AppCompatActivity {
 
@@ -14,5 +14,10 @@ public class WaterTracking extends AppCompatActivity {
     }
 
     public void LeadershipActivity(View view) {
+//        Intent leadership = new Intent(WaterTracking.this, .class);
+//        startActivity(leadership);
+    }
+
+    public void drink200MLButton(View view) {
     }
 }
