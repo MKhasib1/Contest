@@ -4,4 +4,12 @@
     <string name="water_tracking">Water Tracking</string>
     <string name="top_leadership">Top Leadership</string>
     <string name="drink_200ml">Drink 200ML</string>
+    <string name="steps_counts">Steps counts</string>
+    <string name="calories">Calories</string>
+    <string name="distance">Distance</string>
+    <string name="active_time">Active Time</string>
+    <string name="kcal">kcal</string>
+    <string name="km">km</string>
+    <string name="back">Back</string>
+    <string name="steps_tracker">Steps Tracker</string>
 </resources>

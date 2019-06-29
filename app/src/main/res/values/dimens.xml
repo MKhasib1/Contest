@@ -2,4 +2,6 @@
 <resources>
     <dimen name="twenty_sp">20sp</dimen>
     <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
 </resources>
